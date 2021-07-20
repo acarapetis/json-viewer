@@ -1,12 +1,12 @@
 {
-    "name": "@alenaksu/json-viewer",
-    "version": "0.2.0",
+    "name": "@acarapetis/json-viewer",
+    "version": "0.2.1",
     "main": "build/index.js",
     "source": "src/index.js",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/alenaksu/json-viewer.git"
+        "url": "git+https://github.com/acarapetis/json-viewer.git"
     },
     "keywords": [
         "json",
